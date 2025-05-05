@@ -1,10 +1,10 @@
 # HI-VAE
 
-This repository contains the implementation of our Heterogeneous Incomplete Variational Autoendoder model (HI-VAE). It has been written in Python, using Tensorflow.
+This repository contains the implementation of our Heterogeneous Incomplete Variational Autoencoder model (HI-VAE). It has been written in Python, using Tensorflow.
 
 The details of this model are included in this [paper](https://arxiv.org/abs/1807.03653). Please cite it if you use this code for your own research.
 
-## Databse description
+## Database description
 
 There are three different datasets considered in the experiments (Wine, Adult and Default Credit). Each dataset has each own folder, containing:
 
